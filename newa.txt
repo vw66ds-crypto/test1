@@ -1,3 +1,8 @@
 newa1
 
 newa2 edit
+
+new a 本身修改来了
+function hi()
+    print('hi~~')
+end
