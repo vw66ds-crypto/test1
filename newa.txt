@@ -6,3 +6,9 @@ new a 本身修改来了
 function hi()
     print('hi~~')
 end
+
+这是我netb的地盘
+
+function sub(a, b) {
+    return a - b;
+}
