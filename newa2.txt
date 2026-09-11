@@ -1,4 +1,5 @@
 222
 我是newb，也来凑热闹修改newa2.txt了
+我是newc, 我也来修改newa2.txt了
 哈哈哈哈哈
 newa修改了newa2.txt....
