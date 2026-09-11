@@ -12,3 +12,7 @@ end
 function sub(a, b) {
     return a - b;
 }
+
+newa 新增函数 hello
+def hello():
+    return 'helo'
