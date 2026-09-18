@@ -16,5 +16,15 @@ function sub(a, b) {
 }
 
 newa 新增函数 hello
+
+# 新增函数hello的注释
+
 def hello():
     return 'helo'
+
+
+newa分支添加yes
+
+function yes()
+	print("yes")
+end
