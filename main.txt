@@ -1,2 +1,8 @@
 main hhz 修改了这里222 commit
+
+hhz 新增以下函数
+function hello() {
+    return "hello";
+}
+
 main 准备了server 和 client分支
