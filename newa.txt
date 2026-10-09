@@ -28,3 +28,9 @@ newa分支添加yes
 function yes()
 	print("yes")
 end
+
+newa在新建了newa-b1 新增下面的
+
+function newb(){
+    return 'newb';
+}
