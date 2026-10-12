@@ -1,2 +1,17 @@
 main 222 commit
+main修改了第2行
+本地落后的main作出的修改添加函数cute
+
+function cute(name, age) {
+    return {name, age};
+}
+
+main hhz 修改了这里222 commit
+
+hhz 新增以下函数
+
+function hello() {
+    return "hello";
+}
+
 main 准备了server 和 client分支
