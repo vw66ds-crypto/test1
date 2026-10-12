@@ -1,5 +1,5 @@
 main 222 commit
-main修改了第2行
+s1 在 第 2 行插入, main修改了第2行
 本地落后的main作出的修改添加函数cute
 
 function cute(name, age) {
